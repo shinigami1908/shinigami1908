@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I am Lalit Mangal 👋👋</h1>
+<h1 align="center">Hello World, I am Lalit Mangal</h1>
 <h3 align="center">CSE Undergrad at BIT, Mesra 💻 || Competitive Programmer 🏃 || Software Developer 👨‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinigami1908&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
