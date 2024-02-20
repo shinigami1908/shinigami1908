@@ -5,7 +5,7 @@
 
 - 🌲 I’m interested in Web Development and Competitive Programming.
 - 🛝 My Hobbies are playing Badminton, Table Tennis, solving Rubik's cube and playing guitar.
-- 📫 Connect with me : [https://lalitmangal.me](https://lalitmangal.me)
+- 📫 Connect with me : [https://lalitmangal.tech](https://lalitmangal.tech)
 
 # Connect with me 🤝
 
