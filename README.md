@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, I am Lalit Mangal</h1>
-<h3 align="center">CSE Undergrad at BIT, Mesra 💻 || Competitive Programmer 🏃 || Software Developer 👨‍💻 </h3>
+<h3 align="center">CSE Undergrad at BIT Mesra 💻 || Competitive Programmer 🏃 || Software Developer 👨‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinigami1908&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
 
 - 🌲 I’m interested in Web Development and Competitive Programming.
-- 🛝 My Hobbies are playing Badminton, Table Tennis, solving Rubik's cube and playing guitar.
-- 📫 Connect with me : [https://lalitmangal.tech](https://lalitmangal.tech)
+- 🛝 My hobbies are playing Badminton, Table Tennis, solving Rubik's cube and playing Guitar.
+- 📫 My Site : [https://lalitmangal.tech](https://lalitmangal.tech)
 
 # Connect with me 🤝
 
