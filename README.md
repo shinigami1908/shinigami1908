@@ -15,15 +15,6 @@
 <a href="https://discord.com/users/769521843853066252" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Sarvjot#2982" /></a>
 </p>
 
-# My Stats 📈
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shinigami1908&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-             <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinigami1908&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-  </tr> 
-</table>
-
 # Profile Overview 🙂
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinigami1908&theme=monokai"  display=block width=100% height=auto  alt="1" >
